@@ -276,11 +276,9 @@ DOMAIN-SUFFIX,tvb.com
 
 # Netflix
 USER-AGENT,Argo*
-- DOMAIN-KEYWORD,netflix
-- DOMAIN-KEYWORD,dualstack.apiproxy-
-- DOMAIN-KEYWORD,dualstack.ichnaea-web-
-- DOMAIN,netflix.api.fast.com
-- DOMAIN,netflix.com.edgesuite.net
+DOMAIN-KEYWORD,dualstack.apiproxy-
+DOMAIN-KEYWORD,dualstack.ichnaea-web-
+DOMAIN,netflix.com.edgesuite.net
 - DOMAIN-SUFFIX,fast.com
 - DOMAIN-SUFFIX,netflix.com
 - DOMAIN-SUFFIX,netflix.net
