@@ -1,0 +1,20 @@
+#📽 Disney+
+USER-AGENT,Disney*, 📽 Disney+
+HOST-SUFFIX,adobedtm.com, 📽 Disney+
+HOST-SUFFIX,bam.nr-data.net, 📽 Disney+
+HOST-SUFFIX,bamgrid.com, 📽 Disney+
+HOST-SUFFIX,braze.com, 📽 Disney+
+HOST-SUFFIX,cdn.optimizely.com, 📽 Disney+
+HOST-SUFFIX,cdn.registerdisney.go.com, 📽 Disney+
+HOST-SUFFIX,cws.conviva.com, 📽 Disney+
+HOST-SUFFIX,d9.flashtalking.com, 📽 Disney+
+HOST-SUFFIX,disney.demdex.net, 📽 Disney+
+HOST-SUFFIX,disney.my.sentry.io, 📽 Disney+
+HOST-SUFFIX,disneyplus.bn5x.net, 📽 Disney+
+HOST-SUFFIX,disneyplus.com, 📽 Disney+
+HOST-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net, 📽 Disney+
+HOST-SUFFIX,disney-plus.net, 📽 Disney+
+HOST-SUFFIX,disney-portal.my.onetrust.com, 📽 Disney+
+HOST-SUFFIX,dssott.com, 📽 Disney+
+HOST-SUFFIX,execute-api.us-east-1.amazonaws.com, 📽 Disney+
+HOST-SUFFIX,js-agent.newrelic.com, 📽 Disney+
