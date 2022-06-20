@@ -1,5 +1,3 @@
-#📽 Disney+
-USER-AGENT,Disney*, 📽 Disney+
 HOST,cdn.registerdisney.go.com, 📽 Disney+
 HOST-SUFFIX,20thcenturystudios.com.au, 📽 Disney+
 HOST-SUFFIX,20thcenturystudios.com.br, 📽 Disney+
@@ -18,98 +16,98 @@ HOST-SUFFIX,cdn.optimizely.com, 📽 Disney+
 HOST-SUFFIX,conviva.com, 📽 Disney+
 HOST-SUFFIX,d9.flashtalking.com, 📽 Disney+
 HOST-SUFFIX,dilcdn.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+-asia.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+-discount.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+-plus.net, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+-portal.my.onetrust.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+-studio.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+-studio.net, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.asia, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.be, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.bg, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.ca, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.ch, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.co.il, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.co.jp, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.co.kr, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.co.th, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.co.uk, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.co.za, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.com.au, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.com.br, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.com.hk, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.com.tw, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.cz, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.de, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.demdex.net, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.dk, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.es, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.fi, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.fr, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.gr, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.hu, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.id, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.in, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.io, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.it, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.my, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.my.sentry.io, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.nl, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.no, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.ph, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.pl, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.pt, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.ro, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.ru, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.se, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+.sg, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+adsales.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+arena.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+aulani.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+baby.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+careers.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+channelonstage.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+channelroadtrip.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+cruisebrasil.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+enconcert.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+iejobs.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+inflight.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+international.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+internationalhd.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+junior.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+juniortreataday.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+latino.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+magicmoments.co.il, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+magicmoments.co.uk, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+magicmoments.co.za, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+magicmoments.de, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+magicmoments.es, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+magicmoments.fr, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+magicmoments.gen.tr, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+magicmoments.gr, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+magicmoments.it, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+magicmoments.pl, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+magicmomentsme.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+me.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+meetingsandevents.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+movieinsiders.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+musicpromotion.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+newseries.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+now.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+peoplesurveys.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+plus.bn5x.net, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+plus.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+plus.com.ssl.sc.omtrdc.net, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+redirects.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+srivieraresort.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+store.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+streaming.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+subscription.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+tickets.co.uk, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+turkiye.com.tr, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+tvajobs.com, 📽 Disney+
-HOST-SUFFIX, 📽 Disney+world-go.com, 📽 Disney+
+HOST-SUFFIX,disney-asia.com, 📽 Disney+
+HOST-SUFFIX,disney-discount.com, 📽 Disney+
+HOST-SUFFIX,disney-plus.net, 📽 Disney+
+HOST-SUFFIX,disney-portal.my.onetrust.com, 📽 Disney+
+HOST-SUFFIX,disney-studio.com, 📽 Disney+
+HOST-SUFFIX,disney-studio.net, 📽 Disney+
+HOST-SUFFIX,disney.asia, 📽 Disney+
+HOST-SUFFIX,disney.be, 📽 Disney+
+HOST-SUFFIX,disney.bg, 📽 Disney+
+HOST-SUFFIX,disney.ca, 📽 Disney+
+HOST-SUFFIX,disney.ch, 📽 Disney+
+HOST-SUFFIX,disney.co.il, 📽 Disney+
+HOST-SUFFIX,disney.co.jp, 📽 Disney+
+HOST-SUFFIX,disney.co.kr, 📽 Disney+
+HOST-SUFFIX,disney.co.th, 📽 Disney+
+HOST-SUFFIX,disney.co.uk, 📽 Disney+
+HOST-SUFFIX,disney.co.za, 📽 Disney+
+HOST-SUFFIX,disney.com, 📽 Disney+
+HOST-SUFFIX,disney.com.au, 📽 Disney+
+HOST-SUFFIX,disney.com.br, 📽 Disney+
+HOST-SUFFIX,disney.com.hk, 📽 Disney+
+HOST-SUFFIX,disney.com.tw, 📽 Disney+
+HOST-SUFFIX,disney.cz, 📽 Disney+
+HOST-SUFFIX,disney.de, 📽 Disney+
+HOST-SUFFIX,disney.demdex.net, 📽 Disney+
+HOST-SUFFIX,disney.dk, 📽 Disney+
+HOST-SUFFIX,disney.es, 📽 Disney+
+HOST-SUFFIX,disney.fi, 📽 Disney+
+HOST-SUFFIX,disney.fr, 📽 Disney+
+HOST-SUFFIX,disney.gr, 📽 Disney+
+HOST-SUFFIX,disney.hu, 📽 Disney+
+HOST-SUFFIX,disney.id, 📽 Disney+
+HOST-SUFFIX,disney.in, 📽 Disney+
+HOST-SUFFIX,disney.io, 📽 Disney+
+HOST-SUFFIX,disney.it, 📽 Disney+
+HOST-SUFFIX,disney.my, 📽 Disney+
+HOST-SUFFIX,disney.my.sentry.io, 📽 Disney+
+HOST-SUFFIX,disney.nl, 📽 Disney+
+HOST-SUFFIX,disney.no, 📽 Disney+
+HOST-SUFFIX,disney.ph, 📽 Disney+
+HOST-SUFFIX,disney.pl, 📽 Disney+
+HOST-SUFFIX,disney.pt, 📽 Disney+
+HOST-SUFFIX,disney.ro, 📽 Disney+
+HOST-SUFFIX,disney.ru, 📽 Disney+
+HOST-SUFFIX,disney.se, 📽 Disney+
+HOST-SUFFIX,disney.sg, 📽 Disney+
+HOST-SUFFIX,disneyadsales.com, 📽 Disney+
+HOST-SUFFIX,disneyarena.com, 📽 Disney+
+HOST-SUFFIX,disneyaulani.com, 📽 Disney+
+HOST-SUFFIX,disneybaby.com, 📽 Disney+
+HOST-SUFFIX,disneycareers.com, 📽 Disney+
+HOST-SUFFIX,disneychannelonstage.com, 📽 Disney+
+HOST-SUFFIX,disneychannelroadtrip.com, 📽 Disney+
+HOST-SUFFIX,disneycruisebrasil.com, 📽 Disney+
+HOST-SUFFIX,disneyenconcert.com, 📽 Disney+
+HOST-SUFFIX,disneyiejobs.com, 📽 Disney+
+HOST-SUFFIX,disneyinflight.com, 📽 Disney+
+HOST-SUFFIX,disneyinternational.com, 📽 Disney+
+HOST-SUFFIX,disneyinternationalhd.com, 📽 Disney+
+HOST-SUFFIX,disneyjunior.com, 📽 Disney+
+HOST-SUFFIX,disneyjuniortreataday.com, 📽 Disney+
+HOST-SUFFIX,disneylatino.com, 📽 Disney+
+HOST-SUFFIX,disneymagicmoments.co.il, 📽 Disney+
+HOST-SUFFIX,disneymagicmoments.co.uk, 📽 Disney+
+HOST-SUFFIX,disneymagicmoments.co.za, 📽 Disney+
+HOST-SUFFIX,disneymagicmoments.de, 📽 Disney+
+HOST-SUFFIX,disneymagicmoments.es, 📽 Disney+
+HOST-SUFFIX,disneymagicmoments.fr, 📽 Disney+
+HOST-SUFFIX,disneymagicmoments.gen.tr, 📽 Disney+
+HOST-SUFFIX,disneymagicmoments.gr, 📽 Disney+
+HOST-SUFFIX,disneymagicmoments.it, 📽 Disney+
+HOST-SUFFIX,disneymagicmoments.pl, 📽 Disney+
+HOST-SUFFIX,disneymagicmomentsme.com, 📽 Disney+
+HOST-SUFFIX,disneyme.com, 📽 Disney+
+HOST-SUFFIX,disneymeetingsandevents.com, 📽 Disney+
+HOST-SUFFIX,disneymovieinsiders.com, 📽 Disney+
+HOST-SUFFIX,disneymusicpromotion.com, 📽 Disney+
+HOST-SUFFIX,disneynewseries.com, 📽 Disney+
+HOST-SUFFIX,disneynow.com, 📽 Disney+
+HOST-SUFFIX,disneypeoplesurveys.com, 📽 Disney+
+HOST-SUFFIX,disneyplus.bn5x.net, 📽 Disney+
+HOST-SUFFIX,disneyplus.com, 📽 Disney+
+HOST-SUFFIX,disneyplus.com.ssl.sc.omtrdc.net, 📽 Disney+
+HOST-SUFFIX,disneyredirects.com, 📽 Disney+
+HOST-SUFFIX,disneysrivieraresort.com, 📽 Disney+
+HOST-SUFFIX,disneystore.com, 📽 Disney+
+HOST-SUFFIX,disneystreaming.com, 📽 Disney+
+HOST-SUFFIX,disneysubscription.com, 📽 Disney+
+HOST-SUFFIX,disneytickets.co.uk, 📽 Disney+
+HOST-SUFFIX,disneyturkiye.com.tr, 📽 Disney+
+HOST-SUFFIX,disneytvajobs.com, 📽 Disney+
+HOST-SUFFIX,disneyworld-go.com, 📽 Disney+
 HOST-SUFFIX,dmed.technology, 📽 Disney+
 HOST-SUFFIX,dssott.com, 📽 Disney+
 HOST-SUFFIX,dtci.co, 📽 Disney+
