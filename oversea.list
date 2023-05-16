@@ -1,4 +1,4 @@
-# 🌍 国外媒体
+#🌍 国外媒体
 
 # > Emby
 HOST-SUFFIX,emby-cf.plusmedia.site, 🌍 国外媒体
@@ -54,24 +54,16 @@ HOST-SUFFIX,steampowered.com, 🌍 国外媒体
 HOST-SUFFIX,steamstatic.com, 🌍 国外媒体
 
 # > TikTok
-HOST,p16-tiktokcdn-com.akamaized.net, 🌍 国外媒体
-HOST-SUFFIX,byteoversea.com, 🌍 国外媒体
-HOST-SUFFIX,ibytedtos.com, 🌍 国外媒体
-HOST-SUFFIX,ibyteimg.com, 🌍 国外媒体
-HOST-SUFFIX,ipstatp.com, 🌍 国外媒体
-HOST-SUFFIX,muscdn.com, 🌍 国外媒体
-HOST-SUFFIX,musical.ly, 🌍 国外媒体
-HOST-SUFFIX,sgpstatp.com, 🌍 国外媒体
-HOST-SUFFIX,snssdk.com, 🌍 国外媒体
-HOST-SUFFIX,tik-tokapi.com, 🌍 国外媒体
-HOST-SUFFIX,tiktok.com, 🌍 国外媒体
-HOST-SUFFIX,tiktokcdn.com, 🌍 国外媒体
-HOST-SUFFIX,tiktokv.com, 🌍 国外媒体
-HOST-KEYWORD,-tiktokcdn-com, 🌍 国外媒体
-HOST-KEYWORD,musical.ly, 🌍 国外媒体
-HOST-KEYWORD,tiktok, 🌍 国外媒体
-HOST-KEYWORD,tiktokv, 🌍 国外媒体
-USER-AGENT,TikTok*, 🌍 国外媒体
+# > USER-AGENT,TikTok*, 🌍 国外媒体
+# > HOST-SUFFIX,muscdn.com, 🌍 国外媒体
+# > HOST-SUFFIX,musical.ly, 🌍 国外媒体
+# > HOST-SUFFIX,tiktokv.com, 🌍 国外媒体
+# > HOST-SUFFIX,tiktokcdn.com, 🌍 国外媒体
+# > HOST-KEYWORD,-tiktokcdn-com, 🌍 国外媒体
+# > HOST-SUFFIX,tiktok.com, 🌍 国外媒体
+# > HOST-SUFFIX,tik-tokapi.com, 🌍 国外媒体
+# > HOST-SUFFIX,api.tiktokv.com, 🌍 国外媒体
+
 
 # > Zooba
 USER-AGENT,battleroyale*, 🌍 国外媒体
@@ -93,11 +85,18 @@ IP-CIDR,104.22.3.179/22, 🌍 国外媒体
 IP-CIDR,104.22.2.179/22, 🌍 国外媒体
 IP-CIDR,91.108.56.123/22, 🌍 国外媒体
 IP-CIDR,101.32.104.41/22, 🌍 国外媒体
+IP-CIDR,104.21.18.63/22, 🌍 国外媒体
 HOST-SUFFIX,newpppp.com, 🌍 国外媒体
 HOST-SUFFIX,mudvod.tv, 🌍 国外媒体
 HOST-SUFFIX,biggggg.com, 🌍 国外媒体
 HOST-SUFFIX,telghub.com, 🌍 国外媒体
+HOST-SUFFIX,nivod.tv, 🌍 国外媒体
+HOST-SUFFIX,m1.nivod.tv, 🌍 国外媒体
+HOST-SUFFIX,xunlangbot.com, 🌍 国外媒体
+HOST-SUFFIX,bet365.com, 🌍 国外媒体
+IP-CIDR,5.226.179.10/22, 🌍 国外媒体
 
+ 
 #Discord
 HOST-SUFFIX,discord.co, 🌍 国外媒体
 HOST-SUFFIX,discord.com, 🌍 国外媒体
@@ -134,20 +133,22 @@ USER-AGENT,Spotify*, 🌍 国外媒体
 IP-CIDR,35.186.224.47/32, 🌍 国外媒体
 
 # > YouTube 
-USER-AGENT,com.google.ios.youtube*, 🌍 国外媒体
+USER-AGENT,*youtube*, 🌍 国外媒体
 USER-AGENT,YouTube*, 🌍 国外媒体
-DOMAIN-SUFFIX,googlevideo.com, 🌍 国外媒体
-DOMAIN-SUFFIX,withyoutube.com, 🌍 国外媒体
-DOMAIN-SUFFIX,youtu.be, 🌍 国外媒体
-DOMAIN-SUFFIX,youtube.com, 🌍 国外媒体
-DOMAIN-SUFFIX,youtubeeducation.com, 🌍 国外媒体
-DOMAIN-SUFFIX,youtubegaming.com, 🌍 国外媒体
-DOMAIN-SUFFIX,youtubekids.com, 🌍 国外媒体
-DOMAIN-SUFFIX,youtube-nocookie.com, 🌍 国外媒体
-DOMAIN-SUFFIX,yt.be, 🌍 国外媒体
-DOMAIN-SUFFIX,ytimg.com, 🌍 国外媒体
-DOMAIN,youtubei.googleapis.com, 🌍 国外媒体
-DOMAIN,yt3.ggpht.com, 🌍 国外媒体
+HOST-KEYWORD,youtube, 🌍 国外媒体
+HOST,yt3.ggpht.com, 🌍 国外媒体
+HOST-SUFFIX,googlevideo.com, 🌍 国外媒体
+HOST-SUFFIX,gvt2.com, 🌍 国外媒体
+HOST-SUFFIX,youtu.be, 🌍 国外媒体
+HOST,youtubei.googleapis.com, 🌍 国外媒体
+HOST-SUFFIX,ytimg.com, 🌍 国外媒体
+
+#> YouTubeMusic
+HOST,music.youtube.com, 🌍 国外媒体
+USER-AGENT,*YouTubeMusic*, 🌍 国外媒体
+USER-AGENT,*com.google.ios.youtubemusic*, 🌍 国外媒体
+USER-AGENT,YouTubeMusic*, 🌍 国外媒体
+USER-AGENT,com.google.ios.youtubemusic*, 🌍 国外媒体
 
 #Twitter
 HOST-SUFFIX,ads-twitter.com, 🌍 国外媒体
@@ -211,7 +212,6 @@ HOST-SUFFIX,aol.com, 🌍 国外媒体
 HOST-SUFFIX,aolcdn.com, 🌍 国外媒体
 HOST-SUFFIX,api.mixpanel.com, 🌍 国外媒体
 HOST-SUFFIX,api.termius.com, 🌍 国外媒体
-HOST-SUFFIX,api.tiktokv.com, 🌍 国外媒体
 HOST-SUFFIX,api.urbandictionary.com, 🌍 国外媒体
 HOST-SUFFIX,apigee.com, 🌍 国外媒体
 HOST-SUFFIX,apk-dl.com, 🌍 国外媒体
@@ -2004,10 +2004,6 @@ HOST-SUFFIX,theplatform.com, 🌍 国外媒体
 HOST-SUFFIX,tidal.com, 🌍 国外媒体
 HOST-SUFFIX,tidal.comdia, 🌍 国外媒体
 HOST-SUFFIX,tidalhifi.com, 🌍 国外媒体
-HOST-SUFFIX,tik-tokapi.com, 🌍 国外媒体
-HOST-SUFFIX,tiktok.com, 🌍 国外媒体
-HOST-SUFFIX,tiktokcdn.com, 🌍 国外媒体
-HOST-SUFFIX,tiktokv.com, 🌍 国外媒体
 HOST-SUFFIX,ttvnw.net, 🌍 国外媒体
 HOST-SUFFIX,tv.apple.com, 🌍 国外媒体
 HOST-SUFFIX,tvb.com, 🌍 国外媒体
@@ -2080,7 +2076,6 @@ USER-AGENT,TIDAL*dia, 🌍 国外媒体
 USER-AGENT,TVB*, 🌍 国外媒体
 USER-AGENT,TVer-Release*, 🌍 国外媒体
 USER-AGENT,TaiwanGood*, 🌍 国外媒体
-USER-AGENT,TikTok*, 🌍 国外媒体
 USER-AGENT,Viu*, 🌍 国外媒体
 USER-AGENT,ViuTV*, 🌍 国外媒体
 USER-AGENT,WeMusic*, 🌍 国外媒体
