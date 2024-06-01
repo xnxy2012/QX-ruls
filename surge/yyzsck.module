@@ -1,7 +1,0 @@
-#!name=用药助手解锁vip
-
-[Script]
-yyzsck=type=http-response,pattern=^https://newdrugs.dxy.cn,requires-body=1,script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/main/yyzsck.js
-
-[MITM]
-hostname = %APPEND% newdrugs.dxy.cn

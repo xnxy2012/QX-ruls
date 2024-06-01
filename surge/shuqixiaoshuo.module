@@ -1,0 +1,7 @@
+#!name=书旗小说解锁vip
+
+[Script]
+sqxs=type=http-response,pattern=^https://ocean.shuqireader.com,requires-body=1,script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/main/sqxs.js
+
+[MITM]
+hostname = %APPEND% ocean.shuqireader.com
