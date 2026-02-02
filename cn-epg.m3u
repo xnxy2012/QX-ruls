@@ -53,24 +53,6 @@ http://10.0.0.1:7088/udp/228.0.0.205:6108
 http://10.0.0.1:7088/udp/228.0.0.206:6108
 #EXTINF:-1 tvg-id="1781" tvg-name="湖北生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI5.png" group-title="湖北",湖北生活HD
 http://10.0.0.1:7088/udp/228.0.0.204:6108
-#EXTINF:-1 tvg-id="1787" tvg-name="武汉新闻综合频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV1.png" group-title="湖北",武汉新闻HD
-http://10.0.0.1:7088/udp/228.0.0.162:7162
-#EXTINF:-1 tvg-id="1788" tvg-name="武汉电视剧频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV2.png" group-title="湖北",武汉电视剧HD
-http://10.0.0.1:7088/udp/228.0.0.163:7163
-#EXTINF:-1 tvg-id="1789" tvg-name="武汉科技生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV3.png" group-title="湖北",武汉生活HD
-http://10.0.0.1:7088/udp/228.0.0.89:6108
-#EXTINF:-1 tvg-id="1790" tvg-name="武汉经济频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV4.png" group-title="湖北",武汉经济
-http://10.0.0.1:7088/udp/228.0.0.131:5131
-#EXTINF:-1 tvg-id="1791" tvg-name="武汉文体频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV5.png" group-title="湖北",武汉文体HD
-http://10.0.0.1:7088/udp/228.0.0.164:7164
-#EXTINF:-1 tvg-id="1792" tvg-name="武汉外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV6.png" group-title="湖北",武汉外语
-http://10.0.0.1:7088/udp/228.0.0.133:5133
-#EXTINF:-1 tvg-id="1793" tvg-name="武汉少儿频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WHTV7.png" group-title="湖北",武汉少儿
-http://10.0.0.1:7088/udp/228.0.0.134:5134
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广通购物
-http://10.0.0.1:7088/udp/228.0.0.135:5135
-#EXTINF:-1 tvg-id="1795" tvg-name="武汉教育电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WETV.png" group-title="湖北",武汉教育
-http://10.0.0.1:7088/udp/228.0.0.136:5136
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://10.0.0.1:7088/udp/228.0.0.232:6108
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视HD
@@ -173,22 +155,6 @@ http://10.0.0.1:7088/udp/228.0.0.222:6108
 http://10.0.0.1:7088/udp/228.0.0.223:6108
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13
 http://10.0.0.1:7088/udp/228.0.0.13:6108
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜昌综合HD
-http://10.0.0.1:7088/udp/228.0.0.225:6108
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",宜昌旅游HD
-http://10.0.0.1:7088/udp/228.0.0.226:6108
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",恩施综合
-http://10.0.0.1:7088/udp/228.0.0.228:6108
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",恩施文旅
-http://10.0.0.1:7088/udp/228.0.0.229:6108
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",孝感新闻
-http://10.0.0.1:7088/udp/228.0.0.107:6108
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",孝感生活
-http://10.0.0.1:7088/udp/228.0.0.108:6108
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",随州综合
-http://10.0.0.1:7088/udp/228.0.0.110:6108
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",随州农村
-http://10.0.0.1:7088/udp/228.0.0.111:6108
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CETV2
 http://10.0.0.1:7088/udp/228.0.0.198:7198
 #EXTINF:-1 tvg-id="6589" tvg-name="环球奇观" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUANQIUQIGUAN.jpg" group-title="地方",环球奇观
