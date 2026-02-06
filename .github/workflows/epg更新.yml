@@ -1,0 +1,40 @@
+name: 自动更新国内节目表
+
+on:
+  schedule:
+    # 每天北京时间早上 8:00 运行 (UTC 0:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动点击运行
+
+jobs:
+  update_epg:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: 检出代码
+      uses: actions/checkout@v3
+
+    - name: 下载并处理文件
+      run: |
+        # 1. 创建临时目录
+        mkdir -p temp_download
+        
+        # 2. 下载文件 (国内节目表连接，通常是 .xml.gz 或 .tar.gz)
+        # 注意：这里需要替换为该网页中“国内节目表”的真实下载地址
+        # 假设真实地址是 https://epg.51zmt.top:8001/e.xml.gz
+        curl -L "https://epg.51zmt.top:8001/e.xml.gz" -o temp_download/epg.xml.gz
+        
+        # 3. 解压文件
+        # 如果是 .gz 文件使用 gunzip
+        gunzip -c temp_download/epg.xml.gz > epg.xml
+        
+        # 4. 清理临时目录
+        rm -rf temp_download
+
+    - name: 提交并推送到 GitHub
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Action"
+        git add epg.xml
+        # 只有在文件有变动时才提交，防止报错
+        git diff --quiet && git diff --staged --quiet || (git commit -m "自动更新节目表: $(date +'%Y-%m-%d %H:%M:%S')" && git push)
